@@ -1,5 +1,5 @@
 So in this project i was building a full stack todo list tracker in react native using expo framework 
-The home screen as it has three categeories 
+The home screen as it has three categeories    
 1)The work category         
 2)personal category depending on the categeory we are going to show that the particular activity.by default todo are present in the all categeory,there are also contain the pending list.if we was pressing the button it goes on the completed task. With the help of plus button we can add one more todo activity in the list.  
 3)There is the another tab calender it shows the completed task.it show the pending task in the main screen.    
